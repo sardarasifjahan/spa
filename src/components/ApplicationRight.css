@@ -1,0 +1,9 @@
+.application__right{
+    flex: 0.5;
+    color: #06bcee;
+}
+.application__right >p{
+    padding-left: 20px;
+    padding-right: 20px;
+    text-align: start;
+}

@@ -1,0 +1,41 @@
+.footer{
+    background-color: #20232a;
+    color: #06bcee;
+    padding-bottom: 20px;
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+}
+.footer__top{
+    display: flex;
+    text-align: center;
+}
+.footer__support{
+    flex:0.3;
+   
+    padding-right: 30px;
+
+}
+.footer__company{
+    flex:0.4;
+   }
+.footer__tp{
+    flex: 0.3;
+    padding-right: 30px;
+}
+
+.footer__bottom{
+    display: flex;
+    align-items: center;
+}
+.footer__bottom_right{
+    padding-left: 40%;
+}
+.footer__bottom_left{
+   padding-left: 40px;
+}
+.icon{
+    margin-right: 15px;
+    object-fit: contain;
+}

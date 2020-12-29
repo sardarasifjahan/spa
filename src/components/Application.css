@@ -1,0 +1,19 @@
+.application{
+    background-color: #20232a;
+    color: #06bcee;
+    text-align: center;
+}
+.application__divider{
+    display: flex;
+    color: #06bcee;
+    text-align: center;
+    padding: 20px;
+}
+.div__left{
+    flex: 0.5;
+    background-color: brown;
+}
+.div__right{
+    flex: 0.5;
+    background-color: brown;
+}
